@@ -1,7 +1,8 @@
 [
-  {"appName":"evolve-war","title":"에볼루션","desc":"단세포에서 초월생명까지! 진화 레인 전투","accent":"#b070ff","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/evolve-war.png","url":"intoss://evolve-war"},
   {"appName":"kick-apple","title":"사과부수기","desc":"쏟아지는 사과를 부수는 손맛 액션","accent":"#ff5a5a","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/kick-apple.png","url":"intoss://kick-apple"},
+  {"appName":"the-farmer","title":"농부이야기","desc":"밭 갈고 낚시하는 아기자기 농장 생활 RPG","accent":"#7CB342","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/the-farmer.png","url":"intoss://the-farmer"},
+  {"appName":"landgrab","title":"땅따먹기","desc":"선을 그어 내 땅을 넓히는 점령 서바이벌","accent":"#e9c93a","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/landgrab.png","url":"intoss://landgrab"},
+  {"appName":"cats-are-cute","title":"고양이는귀엽다","desc":"방치형 가챠로 귀여운 고양이 수집","accent":"#ffb24a","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/cats-are-cute.png","url":"intoss://cats-are-cute"},
   {"appName":"arrow-brawl","title":"화살난투","desc":"회전 방패와 화살로 끝까지 살아남기","accent":"#5fa8ff","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/arrow-brawl.png","url":"intoss://arrow-brawl"},
-  {"appName":"ball-defense","title":"볼 디펜스:발릭스","desc":"공을 튕겨 몰려오는 적을 막는 디펜스","accent":"#42d6a8","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/ball-defense.png","url":"intoss://ball-defense"},
-  {"appName":"cats-are-cute","title":"고양이는귀엽다","desc":"방치형 가챠로 귀여운 고양이 수집","accent":"#ffb24a","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/cats-are-cute.png","url":"intoss://cats-are-cute"}
+  {"appName":"ball-defense","title":"볼 디펜스:발릭스","desc":"공을 튕겨 몰려오는 적을 막는 디펜스","accent":"#42d6a8","icon":"https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/ball-defense.png","url":"intoss://ball-defense"}
 ]
