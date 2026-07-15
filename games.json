@@ -32,6 +32,22 @@
     "url": "intoss://landgrab-3d"
   },
   {
+    "appName": "evolve-war",
+    "title": "에볼루션",
+    "desc": "단세포에서 초월생명까지! 진화 레인 전투",
+    "accent": "#28B391",
+    "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/evolve-war.png",
+    "url": "intoss://evolve-war"
+  },
+  {
+    "appName": "chem-lab",
+    "title": "케미랩",
+    "desc": "원소를 조합해 화합물을 만드는 화학 실험 퍼즐",
+    "accent": "#3fe8c0",
+    "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/chem-lab.png",
+    "url": "intoss://chem-lab"
+  },
+  {
     "appName": "cats-are-cute",
     "title": "고양이는귀엽다",
     "desc": "방치형 가챠로 귀여운 고양이 수집",
