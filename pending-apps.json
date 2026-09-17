@@ -1,14 +1,5 @@
 [
   {
-    "appName": "our-sign",
-    "title": "우리사이",
-    "desc": "대화로 보는 우리 관계 신호",
-    "accent": "#ff4777",
-    "icon": "https://static.toss.im/appsintoss/29059/28202dbc-365a-4796-b8c0-874d2bf26da9.png",
-    "url": "intoss://our-sign",
-    "status": "pending-toss-release"
-  },
-  {
     "appName": "invasion",
     "title": "인베이젼",
     "desc": "세계를 감염시키는 전략 시뮬레이션",

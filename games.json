@@ -70,5 +70,13 @@
     "accent": "#42d6a8",
     "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/ball-defense.png",
     "url": "intoss://ball-defense"
+  },
+  {
+    "appName": "our-sign-game",
+    "title": "우리사이는?",
+    "desc": "카톡 대화로 보는 우리 관계 신호",
+    "accent": "#FF5A7A",
+    "icon": "https://static.toss.im/appsintoss/29059/b3c1ffa1-695c-4be9-b446-d0d883ee8736.png",
+    "url": "intoss://our-sign-game"
   }
 ]
