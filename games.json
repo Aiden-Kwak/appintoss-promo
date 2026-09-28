@@ -78,5 +78,13 @@
     "accent": "#FF5A7A",
     "icon": "https://static.toss.im/appsintoss/29059/b3c1ffa1-695c-4be9-b446-d0d883ee8736.png",
     "url": "intoss://our-sign-game"
+  },
+  {
+    "appName": "invasion",
+    "title": "인베이젼",
+    "desc": "외계 기생체로 인류를 감염·동화시키는 전략 시뮬레이션",
+    "accent": "#3FBFA3",
+    "icon": "https://static.toss.im/appsintoss/29059/f43df8dc-8e1a-42f3-8d44-6aa1c157e93d.png",
+    "url": "intoss://invasion"
   }
 ]
