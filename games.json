@@ -86,5 +86,13 @@
     "accent": "#3FBFA3",
     "icon": "https://static.toss.im/appsintoss/29059/f43df8dc-8e1a-42f3-8d44-6aa1c157e93d.png",
     "url": "intoss://invasion"
+  },
+  {
+    "appName": "arrow-clash",
+    "title": "화살 격돌",
+    "desc": "활을 당겨 다양한 화살로 살아남는 물리 궁술 액션",
+    "accent": "#42D8C4",
+    "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-e256f4ab-672b-4cf5-a8f2-5ac818586404.png",
+    "url": "intoss://arrow-clash"
   }
 ]
