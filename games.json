@@ -94,5 +94,13 @@
     "accent": "#42D8C4",
     "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-e256f4ab-672b-4cf5-a8f2-5ac818586404.png",
     "url": "intoss://arrow-clash"
+  },
+  {
+    "appName": "my-buddha",
+    "title": "나의 부처님",
+    "desc": "불안할 때 찾아오는 작은 절",
+    "accent": "#D9A93A",
+    "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-3d84094a-98ee-4932-b0df-ea3ec5838dec.png",
+    "url": "intoss://my-buddha"
   }
 ]
