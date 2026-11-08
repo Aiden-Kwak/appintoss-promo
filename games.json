@@ -1,7 +1,7 @@
 [
   {
     "appName": "kick-apple",
-    "title": "사과부수기",
+    "title": "🔥 인기 · 사과부수기",
     "desc": "쏟아지는 사과를 부수는 손맛 액션",
     "accent": "#ff5a5a",
     "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/kick-apple.png",
@@ -57,7 +57,7 @@
   },
   {
     "appName": "arrow-brawl",
-    "title": "화살난투",
+    "title": "🔥 인기 · 화살난투",
     "desc": "회전 방패와 화살로 끝까지 살아남기",
     "accent": "#5fa8ff",
     "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/arrow-brawl.png",
@@ -65,10 +65,10 @@
   },
   {
     "appName": "ball-defense",
-    "title": "볼 디펜스:발릭스",
+    "title": "🔥 인기 · 볼 디펜스:발릭스",
     "desc": "공을 튕겨 몰려오는 적을 막는 디펜스",
     "accent": "#42d6a8",
-    "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/ball-defense.png",
+    "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-d3e3deab-080e-423c-b119-d1b2f5da15da.png",
     "url": "intoss://ball-defense"
   },
   {
@@ -89,7 +89,7 @@
   },
   {
     "appName": "arrow-clash",
-    "title": "화살 격돌",
+    "title": "🔥 인기 · 화살 격돌",
     "desc": "활을 당겨 다양한 화살로 살아남는 물리 궁술 액션",
     "accent": "#42D8C4",
     "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-e256f4ab-672b-4cf5-a8f2-5ac818586404.png",
