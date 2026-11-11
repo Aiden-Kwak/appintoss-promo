@@ -110,5 +110,13 @@
     "accent": "#879973",
     "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-d83b1895-280a-4b84-b976-2e47352799f2.png",
     "url": "intoss://wax-pop"
+  },
+  {
+    "appName": "fight-club",
+    "title": "파이트클럽",
+    "desc": "거리와 타이밍으로 챔피언에 도전하는 복싱 게임",
+    "accent": "#D6A35A",
+    "icon": "https://static.toss.im/appsintoss/29059/live-managed-v1-515ab4ee-982f-46e8-9758-f23f1132bdb2.png",
+    "url": "intoss://fight-club"
   }
 ]
