@@ -2,9 +2,9 @@
   {
     "appName": "kick-apple",
     "title": "(🔥 인기) 사과부수기",
-    "desc": "쏟아지는 사과를 부수는 손맛 액션",
+    "desc": "사과게임으로 2분만에 IQ 테스트",
     "accent": "#ff5a5a",
-    "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@main/icons/kick-apple.png",
+    "icon": "https://cdn.jsdelivr.net/gh/Aiden-Kwak/appintoss-promo@72a793d17d29ac5401658612691fe4f7c0cd3eb6/icons/kick-apple-iq-58d695acc0.webp",
     "url": "intoss://kick-apple"
   },
   {
